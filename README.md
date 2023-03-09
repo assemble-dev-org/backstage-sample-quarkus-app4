@@ -1,6 +1,6 @@
 # my-quarkus-app4
 
-
+yay!
 
 ## Running the application in dev mode
 
